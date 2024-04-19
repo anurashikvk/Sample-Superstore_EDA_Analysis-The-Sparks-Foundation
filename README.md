@@ -25,4 +25,4 @@ This project aims to analyze profitability and identify areas for improvement in
   - Adjusting discount strategies to balance competitiveness and profitability is essential for maximizing profits.
 
 ## Contributors
-- [Your Name](https://github.com/anurashikvk)
+- [MUHAMMED ANU RASHIK VK ](https://github.com/anurashikvk)
